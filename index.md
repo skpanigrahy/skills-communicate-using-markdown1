@@ -12,3 +12,8 @@ var t1=10
 var t2=20
 var myVar = "Hello, world!";
 ```
+
+- [] Added Headers
+- [] Added images
+- [] Added code
+- [] Added list
